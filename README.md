@@ -77,7 +77,7 @@ The build steps include:
 
 **Screenshot: Jenkins Job Configuration**
 
-![Jenkins Job Configuration](screenshots/jenkins-job-config.png)
+![Jenkins Job Configuration](Screenshots/step18-jenkins-dashboard.png)
 
 > The job is configured to pull code from GitHub and run the deployment steps through an Execute Shell build step.
 
